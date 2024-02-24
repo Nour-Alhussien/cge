@@ -110,3 +110,10 @@ cpgd:
     eps_step: 0.1 # Attack step size (input variation) at each iteration
     verbose: 1  # Show progress bars
     enable_constraints: False
+
+# lowprofool
+# https://tinyurl.com/4yd37snd
+lpf:
+  max_iter: 50
+  alpha: 0.01
+  lambda_: 0.1

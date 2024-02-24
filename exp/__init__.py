@@ -27,6 +27,9 @@ from exp.classifier import ClsPicker
 from exp.cpgd import CPGD, cpgd_apply_and_predict
 from exp.zoo import VZoo
 from exp.pgd import VPGD
+from exp.lowprofool import LowProFool
+from exp.lpfv import VLPF
 from exp.hopskip import VHSJ
 from exp.attack import AttackRunner, AttackPicker
 from exp.experiment import Experiment
+
