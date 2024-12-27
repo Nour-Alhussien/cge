@@ -114,6 +114,6 @@ cpgd:
 # lowprofool
 # https://tinyurl.com/4yd37snd
 lpf:
-  max_iter: 50
+  max_iter: 100
   alpha: 0.01
-  lambda_: 0.1
+  lambda_: 0.5
